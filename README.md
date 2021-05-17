@@ -19,7 +19,6 @@
 # PUBLICATIONS
 
 - Multi-modal perception and transfer learning for grasping transparent and specular objects (Thomas Weng, Amith Pallankize, Yimin Tang, Oliver Kroemer, David Held, ICRA 2020, RA-L)
-- Adaptive Multimodal Fusion for Grasping Transparent and Specular Objects (Yimin Tang, Thomas Weng,David Held, RISS Journal 2019)
 - MouseTouch: Enabling Touch Interaction on Non-Touch Screen using Optical Mouse (third author, under review)
 
 
