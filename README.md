@@ -28,8 +28,8 @@
 
 # Advertisements
 
-[Yuzhuo Jing](https://osdi.dev)
-[Qi Qin](https://leoq7.com/)
+- [Yuzhuo Jing](https://osdi.dev)
+- [Qi Qin](https://leoq7.com/)
 
 
 
