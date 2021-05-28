@@ -19,7 +19,6 @@
 # PUBLICATIONS
 
 - Multi-modal perception and transfer learning for grasping transparent and specular objects (Thomas Weng, Amith Pallankize, Yimin Tang, Oliver Kroemer, David Held, ICRA 2020, RA-L)
-- MouseTouch: Enabling Touch Interaction on Non-Touch Screen using Optical Mouse (third author, under review)
 
 
 # MISC
@@ -30,7 +29,7 @@
 # Advertisements
 
 [Yuzhuo Jing](https://osdi.dev)
-
+[Qi Qin](https://leoq7.com/)
 
 
 
