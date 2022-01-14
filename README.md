@@ -1,7 +1,8 @@
 ### Hi there 👋  
 - Personal Website: https://sites.google.com/view/yimintang/
 - From ShanghaiTech University
-- Now: Microsoft FTE at Azure Stack, Shanghai Zizhu
+- Microsoft FTE at Azure Stack, Shanghai Zizhu (2020.7-2021.8)
+- Now: CMU Master student
 
 
 # EDUCATION
@@ -13,8 +14,9 @@
 - “Convert People Face to Cartoon Using Three-Stage GAN” (Advisor: Xumin He)
 
 
-### CMU RI MSR (TBD)
+### CMU RI MSR ( 2021.8 - Now)
 
+- Advisor: Prof. Katia Sycara
 
 # PUBLICATIONS
 
