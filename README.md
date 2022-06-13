@@ -1,8 +1,8 @@
 ### Hi there 👋  
 - Personal Website: https://sites.google.com/view/yimintang/
-- From ShanghaiTech University
-- Microsoft FTE at Azure Stack, Shanghai Zizhu (2020.7-2021.8)
-- Now: CMU Master student
+- From Carnegie Mellon University and ShanghaiTech University
+- Microsoft FTE at Azure Stack, Shanghai Zizhu 
+- Now: CMU student
 
 
 # EDUCATION
