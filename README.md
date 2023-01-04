@@ -17,7 +17,7 @@
 
 ### CMU RI MSR ( 2021.8 - Now)
 
-- Advisor: Prof. Katia Sycara
+- Advisor: Prof. Katia Sycara, Prof. Jiaoyang Li
 
 # PUBLICATIONS
 
