@@ -27,8 +27,15 @@
 # MISC
 
 - 涂鸦艺术家——班克斯(Banksy)   https://www.gcores.com/articles/125733
-- 诸葛亮第一次北伐与吴蜀联盟关系  https://drive.google.com/file/d/1a-mZ0FO879aewhpRj9IiY3F-Tb_5DQW_/view?usp=sharing
-
+- ICLR 2022 reviewer
+- Open Source (Contributed for):
+  - [OI Wiki](https://github.com/OI-wiki/OI-wiki)
+  - [ONScripter-GBK-2015](https://github.com/ljkgpxs/onscripter-GBK-2015)
+  - [MuJoCo](https://github.com/deepmind/mujoco)
+  - [dreamer-torch](https://github.com/jsikyoon/dreamer-torch)
+  - [TrackFormer](https://github.com/timmeinhardt/trackformer)
+  - [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java)
+  - [PyTorch](https://github.com/pytorch/pytorch)
 # Advertisements
 
 - [Yuzhuo Jing](https://osdi.dev)
