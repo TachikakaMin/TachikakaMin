@@ -36,6 +36,7 @@
   - [TrackFormer](https://github.com/timmeinhardt/trackformer)
   - [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java)
   - [PyTorch](https://github.com/pytorch/pytorch)
+  - [taichi](https://github.com/taichi-dev/taichi)
 # Advertisements
 
 - [Yuzhuo Jing](https://osdi.dev)
