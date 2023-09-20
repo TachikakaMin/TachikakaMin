@@ -15,9 +15,13 @@
 - “Convert People Face to Cartoon Using Three-Stage GAN” (Advisor: Xumin He)
 
 
-### CMU RI MSR ( 2021.8 - Now)
+### CMU RI MSR ( 2021.8 - 2023.8)
 
 - Advisor: Prof. Katia Sycara, Prof. Jiaoyang Li
+
+### USC CS PhD ( 2023.8 - Now)
+
+- Advisor: Prof. Sven Koenig
 
 # PUBLICATIONS
 
