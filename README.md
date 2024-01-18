@@ -1,8 +1,8 @@
 ### Hi there 👋  
 - Personal Website: https://sites.google.com/view/yimintang/
-- From Carnegie Mellon University and ShanghaiTech University
+- From University of Southern California, Carnegie Mellon University and ShanghaiTech University
 - Microsoft FTE at Azure Stack, Shanghai Zizhu 
-- Now: CMU student
+- Now: USC student
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TachikakaMin&bg_color=30,6190e8,a7bfe8&title_color=fff&text_color=fff)
 
